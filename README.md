@@ -94,7 +94,7 @@
 </p>
 <p><strong>🌱 I’m currently learning ...</strong></p>
 <p><strong>👨‍💻 Software Engineer</strong></p>
-<p>
+<p><br/>
   <strong>📕 Student</a></strong>
   <br>
   <strong>📧 How to reach me:  <a href="nguyenvanphi.fi@gmail.com" target="_blank">nguyenvanphi.fi@gmail.com</a></strong>
