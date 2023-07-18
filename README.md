@@ -1,6 +1,6 @@
-<!-- Trungquandev -->
+<!-- nguyenvanphi -->
 <a href="#" target="_blank">
-  <img src="svg/trungquandev.svg" width="1200" alt="trungquandev-official" />
+  <img src="svg/nguyenvanphi.svg" width="1200" alt="nguyenvanphi-official" />
 </a>
 
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
@@ -52,11 +52,11 @@
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <br>
 <div align=center>
-  <a href="#" title="Trungquandev">
-    <img width="315" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trungquandev&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+  <a href="#" title="nguyenvanphi">
+    <img width="315" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nguyenvanphi&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
   </a>
-  <a href="#" title="Trungquandev">
-    <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=trungquandev&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+  <a href="#" title="nguyenvanphi">
+    <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=nguyenvanphi&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
   </a>
 </div>
 
@@ -66,20 +66,20 @@
 <!-- https://icons8.com -->
 <div align="center">
 
-  <a href="https://facebook.com/trungquandev" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="trungquandev-facebook" />
+  <a href="https://facebook.com/nguyenvanphi" target="blank">
+    <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="nguyenvanphi-facebook" />
   </a>
-  <a href="https://www.youtube.com/c/TrungquandevOfficial" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/youtube-squared.png" alt="trungquandev-youtube" />
+  <a href="https://www.youtube.com/c/nguyenvanphiOfficial" target="blank">
+    <img src="https://img.icons8.com/bubbles/100/000000/youtube-squared.png" alt="nguyenvanphi-youtube" />
   </a>
-  <a href="https://www.linkedin.com/in/trungquandev" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="trungquandev-linkedin" />
+  <a href="https://www.linkedin.com/in/nguyenvanphi" target="blank">
+    <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="nguyenvanphi-linkedin" />
   </a>
-  <a href="https://instagram.com/trungquandev" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="trungquandev-instagram" />
+  <a href="https://instagram.com/nguyenvanphi" target="blank">
+    <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="nguyenvanphi-instagram" />
   </a>
-  <a href="mailto:trungquandev.official@gmail.com" target="top">
-    <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="trungquandev-email" />
+  <a href="mailto:nguyenvanphi.official@gmail.com" target="top">
+    <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="nguyenvanphi-email" />
   </a>
 </div>
 
@@ -94,11 +94,11 @@
 </p>
 <p><strong>🌱 I’m currently learning ...</strong></p>
 <p><strong>👨‍💻 Software Engineer</strong></p>
-<p><br/>
+<p>
   <strong>📕 Student</a></strong>
-  <br>
-  <strong>📧 How to reach me:  <a href="nguyenvanphi.fi@gmail.com" target="_blank">nguyenvanphi.fi@gmail.com</a></strong>
-  <br>
+</p>
+<p>
+<strong>📧 How to reach me:  <a href="nguyenvanphi.fi@gmail.com" target="_blank">nguyenvanphi.fi@gmail.com</a></strong>
 </p>
 
 <!--
@@ -106,14 +106,14 @@
 <p>
   <strong>🔗 Link giới thiệu chi tiết: <a href="https://youtu.be/63opfUkPq6k" target="_blank">Lập Trình MERN Stack Nâng Cao - Học Thực Tế Để Đi Làm</a></strong>
   <br>
-  <strong>🔗 Liên hệ với mình tại Facebook: <a href="https://www.facebook.com/trungquandev"  -->
+  <strong>🔗 Liên hệ với mình tại Facebook: <a href="https://www.facebook.com/nguyenvanphi"  -->
 <!-- <a href="https://youtu.be/63opfUkPq6k" target="_blank">
-  <img src="images/fair-mern-stack-advanced-banner-trungquandev-scaled.jpeg" width="1200" alt="trungquandev-official" />
+  <img src="images/fair-mern-stack-advanced-banner-nguyenvanphi-scaled.jpeg" width="1200" alt="nguyenvanphi-official" />
 </a> -->
 
 <br>
 <h2 align="center">📑 My Favorites Quote 📑</h2>
 <br>
-<!-- <a href="#" target="_blank">
-  <img src="svg/trungquandev-quotes.svg" width="846" height="150" alt="nguyenvanphi-official" />
-</a> -->
+<a href="#" target="_blank">
+  <img src="svg/nguyenvanphi-quotes.svg" width="846" height="150" alt="nguyenvanphi-official" />
+</a>
