@@ -51,14 +51,31 @@
 <h2 align="center">🔥 GitHub Stats 🔥</h2>
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <br>
-<div align=center>
-  <!-- <a href="#" title="nguyenvanphi">
+<!-- <div align=center>
+  <a href="#" title="nguyenvanphi">
     <img width="315" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nguyenvanphi&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
-  </a> -->
+  </a>
   <a href="#" title="nguyenvanphi">
     <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=nguyenvanphi&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
   </a>
-</div>
+</div> -->
+
+<h2 align="center">📖 Study and Study 📖</h2>
+<br>
+
+<p>
+  <a href="https://youtu.be/63opfUkPq6k" target="_blank">
+    <strong>👨🏻‍🎓 Nguyen Van Phi</strong>
+  </a>
+</p>
+<p><strong>🌱 I’m currently learning ...</strong></p>
+<p><strong>👨‍💻 Software Engineer</strong></p>
+<p>
+  <strong>📕 Student</a></strong>
+</p>
+<p>
+<strong>📧 How to reach me:  <a href="nguyenvanphi.fi@gmail.com" target="_blank">nguyenvanphi.fi@gmail.com</a></strong>
+</p>
 
 <br>
 <h2 align="center">👽 Where to find me 👽</h2>
@@ -84,22 +101,6 @@
 </div>
 
 <br>
-
-<h2 align="center">📖 Study and Study 📖</h2>
-<br>
-<p>
-  <a href="https://youtu.be/63opfUkPq6k" target="_blank">
-    <strong>👨🏻‍🎓 Nguyen Van Phi</strong>
-  </a>
-</p>
-<p><strong>🌱 I’m currently learning ...</strong></p>
-<p><strong>👨‍💻 Software Engineer</strong></p>
-<p>
-  <strong>📕 Student</a></strong>
-</p>
-<p>
-<strong>📧 How to reach me:  <a href="nguyenvanphi.fi@gmail.com" target="_blank">nguyenvanphi.fi@gmail.com</a></strong>
-</p>
 
 <!--
 <p><strong>☕ Vì mỗi lần mở lớp online dạy trực tiếp này mình chỉ nhận số lượng rất ít bạn để đảm bảo chất lượng học, nên là các bạn quan tâm thì cứ thoải mái liên hệ với mình sớm để đăng ký giữ chỗ cho những lớp tiếp theo nha!</strong></p>
