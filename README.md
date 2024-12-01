@@ -84,10 +84,18 @@
                     height="40"
                 />
             </a>
-            <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+            <a href="https://tanstack.com/query/v5/docs/framework/react/overview" target="_blank" rel="noreferrer">
                 <img
-                    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"
-                    alt="docker"
+                    src="https://images.seeklogo.com/logo-png/43/1/react-query-logo-png_seeklogo-435661.png"
+                    alt="tanstack query"
+                    width="40"
+                    height="40"
+                />
+            </a>
+              <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
+                <img
+                    src="https://icon.icepanel.io/Technology/png-shadow-512/Next.js.png"
+                    alt="nextjs"
                     width="40"
                     height="40"
                 />
@@ -164,14 +172,6 @@
                     height="40"
                 />
             </a> -->
-            <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-                <img
-                    src="https://icon.icepanel.io/Technology/png-shadow-512/Next.js.png"
-                    alt="nextjs"
-                    width="40"
-                    height="40"
-                />
-            </a>
             <!-- <a href="https://nodejs.org" target="_blank" rel="noreferrer">
                 <img
                     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
@@ -184,6 +184,14 @@
                 <img
                     src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"
                     alt="postman"
+                    width="40"
+                    height="40"
+                />
+            </a>
+            <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+                <img
+                    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"
+                    alt="docker"
                     width="40"
                     height="40"
                 />
